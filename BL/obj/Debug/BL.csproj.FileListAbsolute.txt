@@ -1,0 +1,42 @@
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\BL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\BL.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\BE.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\DAL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\DS.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\BE.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\DS.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\obj\Debug\BL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\obj\Debug\BL.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BL.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BE.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DAL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DS.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BE.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DAL.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DS.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BE.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DAL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DS.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\GoogleMapsApi.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DAL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\bin\Debug\DS.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BL\obj\Debug\BL.pdb

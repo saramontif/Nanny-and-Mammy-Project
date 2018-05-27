@@ -1,0 +1,33 @@
+﻿<Window x:Class="PLWPF.MotherWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="MotherWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+        <Label Content=" Mother "  FontSize="50" HorizontalAlignment="Left" Margin="0,16,0,0" VerticalAlignment="Top"  FontFamily="Freestyle Script"/>
+        <Image HorizontalAlignment="Right" Height="69" Margin="0,3,2.6,0" VerticalAlignment="Top"  Source="images/79b894c9364b20a7416e561bef15d9a2--mother-clipart-mother-daughters.jpg" Grid.RowSpan="2" Width="96" RenderTransformOrigin="0.378,0.516"  />
+
+        <Button x:Name="AddMotherButton" Content="Add Mother"  Margin="3" FontSize="30" Grid.Row="1" Click="AddMotherButton_Click" FontFamily="Freestyle Script"/>
+
+        <Button x:Name="UpdateMotherButton" Content="Update Mother"  Margin="3" FontSize="30" Grid.Row="2" Click="UpdateMotherButton_Click" FontFamily="Freestyle Script"/>
+
+        <Button x:Name="DeleteMotherButton" Content="Delete Mother" Margin="3" FontSize="30" Grid.Row="3" Click="DeleteMotherButton_Click" FontFamily="Freestyle Script"/>
+        <Button x:Name="ShowAllMothers" Content="Show All Mothers"  Margin="3" FontSize="30" Grid.Row="4" Click="ShowAllMothersButton_Click" FontFamily="Freestyle Script"/>
+
+    </Grid>
+</Window>
+
+        
+

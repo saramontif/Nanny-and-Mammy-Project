@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{783C0CC9-4D20-4B5C-9178-4BF9A73565EB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PLWPF</RootNamespace>
+    <AssemblyName>PLWPF</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AddChildWindow.xaml.cs">
+      <DependentUpon>AddChildWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddContractWindow.xaml.cs">
+      <DependentUpon>AddContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddMotherWindow.xaml.cs">
+      <DependentUpon>AddMotherWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddNannyWindow.xaml.cs">
+      <DependentUpon>AddNannyWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Address.xaml.cs">
+      <DependentUpon>Address.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AvailableTime.xaml.cs">
+      <DependentUpon>AvailableTime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ChildWindow.xaml.cs">
+      <DependentUpon>ChildWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContractDistance.xaml.cs">
+      <DependentUpon>ContractDistance.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContractWindow.xaml.cs">
+      <DependentUpon>ContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteChildWindow.xaml.cs">
+      <DependentUpon>DeleteChildWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteContractWindow.xaml.cs">
+      <DependentUpon>DeleteContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteMotherWindow.xaml.cs">
+      <DependentUpon>DeleteMotherWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Grouping.xaml.cs">
+      <DependentUpon>Grouping.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MotherWindow.xaml.cs">
+      <DependentUpon>MotherWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NannyWithTMT.xaml.cs">
+      <DependentUpon>NannyWithTMT.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NannyByAddress.xaml.cs">
+      <DependentUpon>NannyByAddress.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NannyWindow.xaml.cs">
+      <DependentUpon>NannyWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RangeChildAge.xaml.cs">
+      <DependentUpon>RangeChildAge.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAllChilds.xaml.cs">
+      <DependentUpon>ShowAllChilds.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAllContracts.xaml.cs">
+      <DependentUpon>ShowAllContracts.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAllMothers.xaml.cs">
+      <DependentUpon>ShowAllMothers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAllNannys.xaml.cs">
+      <DependentUpon>ShowAllNannys.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateChildWindow.xaml.cs">
+      <DependentUpon>UpdateChildWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateContractWindow.xaml.cs">
+      <DependentUpon>UpdateContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateMotherWindow.xaml.cs">
+      <DependentUpon>UpdateMotherWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateNannyWindow.xaml.cs">
+      <DependentUpon>UpdateNannyWindow.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AddChildWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddMotherWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddNannyWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="Address.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AvailableTime.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ChildWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContractDistance.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteChildWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteMotherWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteNannyWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Grouping.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DeleteNannyWindow.xaml.cs">
+      <DependentUpon>DeleteNannyWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MotherWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NannyWithTMT.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NannyByAddress.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NannyWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="RangeChildAge.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowAllChilds.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowAllContracts.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowAllMothers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowAllNannys.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateChildWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateMotherWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateNannyWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\BE.Child.datasource" />
+    <None Include="Properties\DataSources\BE.Contract.datasource" />
+    <None Include="Properties\DataSources\BE.Mother.datasource" />
+    <None Include="Properties\DataSources\BE.Nanny.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{db7d2acf-d617-40d5-8320-9edcbdc93a5d}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BL\BL.csproj">
+      <Project>{1e9351ad-4bec-4ca0-be10-d5741fd41871}</Project>
+      <Name>BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\%24_35.JPG" />
+    <Resource Include="images\25065419-kindergarten-teacher-with-kids-Stock-Photo.jpg" />
+    <Resource Include="images\65454525-Mother-kneel-down-and-hugging-her-daughter-vector-illustration-concept-of-mother-s-day-or-I-love-Mom-Stock-Vector.jpg" />
+    <Resource Include="images\79b894c9364b20a7416e561bef15d9a2--mother-clipart-mother-daughters.jpg" />
+    <Resource Include="images\AA03-2016p046.jpg" />
+    <Resource Include="images\baby_sitter.jpg" />
+    <Resource Include="images\funny-mother-nanny-baby-emblem-smiling-woman-profession-abc-series-children-vector-illustration-74906861.jpg" />
+    <Resource Include="images\images %281%29.jpg" />
+    <Resource Include="images\images-1.jpeg" />
+    <Resource Include="images\images.jpg" />
+    <Resource Include="images\הורד.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\untitled.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

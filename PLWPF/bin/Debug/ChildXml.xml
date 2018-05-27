@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Childs>
+  <Child>
+    <ChildID>205644465</ChildID>
+    <MotherID>308856956</MotherID>
+    <ChildName>ilay yosef</ChildName>
+    <DateOfBirth>05/09/2017 00:00:00</DateOfBirth>
+    <IsSpacialNeeds>False</IsSpacialNeeds>
+  </Child>
+  <Child>
+    <ChildID>208496598</ChildID>
+    <MotherID>123</MotherID>
+    <ChildName>rivka</ChildName>
+    <DateOfBirth>2017-08-08T00:00:00</DateOfBirth>
+    <IsSpacialNeeds>false</IsSpacialNeeds>
+  </Child>
+</Childs>

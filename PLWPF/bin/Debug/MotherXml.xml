@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mothers>
+  <Mother>
+    <ID>308856956</ID>
+    <FirstName>sara</FirstName>
+    <Lastname>montifiori</Lastname>
+    <Tel>0525897525</Tel>
+    <address>
+      <Number>7</Number>
+      <Street>beit haddfus</Street>
+      <City>jerusalem</City>
+      <ZipCode>55555</ZipCode>
+      <Country>israel</Country>
+    </address>
+    <HomePhone>025800548</HomePhone>
+    <BabbySitterAdress>
+      <address>
+        <Number>0</Number>
+        <Street />
+        <City />
+        <ZipCode />
+        <Country />
+      </address>
+    </BabbySitterAdress>
+    <Workhours>
+      <Sunday>
+        <start>900</start>
+        <end>1600</end>
+      </Sunday>
+      <Monday>
+        <start>900</start>
+        <end>1600</end>
+      </Monday>
+      <Tuesday>
+        <start>900</start>
+        <end>1600</end>
+      </Tuesday>
+      <Wednesday>
+        <start>900</start>
+        <end>1600</end>
+      </Wednesday>
+      <Thursday>
+        <start>900</start>
+        <end>1600</end>
+      </Thursday>
+      <Friday>
+        <start>0</start>
+        <end>0</end>
+      </Friday>
+    </Workhours>
+    <MonthPayment>false</MonthPayment>
+  </Mother>
+  <Mother>
+    <ID>308965323</ID>
+    <FirstName>rachel</FirstName>
+    <Lastname>kochav</Lastname>
+    <Tel>0585896336</Tel>
+    <address>
+      <Number>20</Number>
+      <Street>kanfei nesharim</Street>
+      <City>jerusalem</City>
+      <ZipCode>55555</ZipCode>
+      <Country>israel</Country>
+    </address>
+    <HomePhone>025866595</HomePhone>
+    <BabbySitterAdress>
+      <address>
+        <Number>0</Number>
+        <Street />
+        <City />
+        <ZipCode />
+        <Country />
+      </address>
+    </BabbySitterAdress>
+    <Workhours>
+      <Sunday>
+        <start>1200</start>
+        <end>1430</end>
+      </Sunday>
+      <Monday>
+        <start>1100</start>
+        <end>1500</end>
+      </Monday>
+      <Tuesday>
+        <start>0</start>
+        <end>0</end>
+      </Tuesday>
+      <Wednesday>
+        <start>0</start>
+        <end>0</end>
+      </Wednesday>
+      <Thursday>
+        <start>0</start>
+        <end>0</end>
+      </Thursday>
+      <Friday>
+        <start>0</start>
+        <end>0</end>
+      </Friday>
+    </Workhours>
+    <MonthPayment>false</MonthPayment>
+  </Mother>
+  <Mother>
+    <ID>123</ID>
+    <FirstName>israella</FirstName>
+    <Lastname>haviv</Lastname>
+    <Tel>0528965254</Tel>
+    <address>
+      <Number>19</Number>
+      <Street>rabbi akkiva</Street>
+      <City>beitar</City>
+      <ZipCode>55555</ZipCode>
+      <Country>israel</Country>
+    </address>
+    <HomePhone>025665555</HomePhone>
+    <BabbySitterAdress>
+      <address>
+        <Number>0</Number>
+        <Street></Street>
+        <City></City>
+        <ZipCode></ZipCode>
+        <Country></Country>
+      </address>
+    </BabbySitterAdress>
+    <Workhours>
+      <Sunday>
+        <start>0</start>
+        <end>0</end>
+      </Sunday>
+      <Monday>
+        <start>0</start>
+        <end>0</end>
+      </Monday>
+      <Tuesday>
+        <start>0</start>
+        <end>0</end>
+      </Tuesday>
+      <Wednesday>
+        <start>1200</start>
+        <end>1300</end>
+      </Wednesday>
+      <Thursday>
+        <start>0</start>
+        <end>0</end>
+      </Thursday>
+      <Friday>
+        <start>0</start>
+        <end>0</end>
+      </Friday>
+    </Workhours>
+    <MonthPayment>False</MonthPayment>
+  </Mother>
+</Mothers>

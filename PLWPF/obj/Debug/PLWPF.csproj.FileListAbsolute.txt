@@ -1,0 +1,219 @@
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\BE.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\BL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\DAL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\DS.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\BE.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\BL.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\DAL.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\bin\Debug\DS.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteNannyWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\App.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteNannyWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\addMotherWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\addMotherWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteChildWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteMotherWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteChildWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteMotherWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AvailableTime.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AvailableTime.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\Address.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\Address.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\DeleteContractWindow.baml
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BE.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DAL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DS.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BE.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BL.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DAL.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DS.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Address.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AvailableTime.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractDistance.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteChildWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteMotherWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteNannyWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Grouping.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWithTMT.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyByAddress.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\RangeChildAge.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllChilds.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllContracts.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllMothers.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllNannys.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\App.g.cs
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Address.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AvailableTime.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractDistance.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteChildWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteContractWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteMotherWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteNannyWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Grouping.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWithTMT.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyByAddress.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\RangeChildAge.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllChilds.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllContracts.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllMothers.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllNannys.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BE.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DAL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\GoogleMapsApi.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DS.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\BL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DAL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\bin\Debug\DS.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddChildWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddContractWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddMotherWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddNannyWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Address.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AvailableTime.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ChildWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractDistance.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteChildWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteMotherWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteNannyWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Grouping.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MotherWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWithTMT.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyByAddress.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\RangeChildAge.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllChilds.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllContracts.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllMothers.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllNannys.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateChildWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateMotherWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateNannyWindow.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\App.g.cs
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddChildWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddContractWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddMotherWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AddNannyWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Address.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\AvailableTime.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ChildWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractDistance.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ContractWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteChildWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteContractWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteMotherWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\DeleteNannyWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\Grouping.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\MotherWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWithTMT.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyByAddress.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\NannyWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\RangeChildAge.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllChilds.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllContracts.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllMothers.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\ShowAllNannys.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateChildWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateContractWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateMotherWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\UpdateNannyWindow.baml
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.Cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\PLWPF\obj\Debug\PLWPF.pdb

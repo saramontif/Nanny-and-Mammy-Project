@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contracts>
+  <Contract>
+    <NumberOfContract>10000000</NumberOfContract>
+    <NunnyID>306976825</NunnyID>
+    <MotherID>308856956</MotherID>
+    <ChildID>205644465</ChildID>
+    <IsInterview>true</IsInterview>
+    <IsContract>false</IsContract>
+    <RateforHour>60</RateforHour>
+    <RateforMonth>6000</RateforMonth>
+    <IsMorechilds>false</IsMorechilds>
+    <WorkTime>
+      <Sunday>
+        <start>900</start>
+        <end>1600</end>
+      </Sunday>
+      <Monday>
+        <start>900</start>
+        <end>1600</end>
+      </Monday>
+      <Tuesday>
+        <start>900</start>
+        <end>1600</end>
+      </Tuesday>
+      <Wednesday>
+        <start>900</start>
+        <end>1600</end>
+      </Wednesday>
+      <Thursday>
+        <start>900</start>
+        <end>1600</end>
+      </Thursday>
+      <Friday>
+        <start>0</start>
+        <end>0</end>
+      </Friday>
+    </WorkTime>
+    <DateStart>2018-01-31T00:00:00</DateStart>
+    <DateEnd>2018-03-05T00:00:00</DateEnd>
+    <HoursOfContractMonth>150</HoursOfContractMonth>
+  </Contract>
+</Contracts>

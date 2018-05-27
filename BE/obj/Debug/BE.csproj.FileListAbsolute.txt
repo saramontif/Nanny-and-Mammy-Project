@@ -1,0 +1,18 @@
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BE\bin\Debug\BE.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BE\bin\Debug\BE.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BE\obj\Debug\BE.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\BE\obj\Debug\BE.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BE\bin\Debug\BE.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BE\bin\Debug\BE.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BE\bin\Debug\BE.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BE\bin\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache

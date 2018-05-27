@@ -1,0 +1,35 @@
+﻿<Window x:Class="PLWPF.ContractWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="ContractWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Content=" Contract "  FontSize="50" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top"  FontFamily="Freestyle Script"/>
+        <Image HorizontalAlignment="Right" Height="90" Margin="3" VerticalAlignment="Top"  Source="images/images (1).jpg"   />
+        <Button x:Name="AddContractButton" Content="Add Contract"  
+        Margin="3" FontSize="30" Grid.Row="1" Click="AddContractButton_Click" FontFamily="Freestyle Script" />
+
+        <Button x:Name="UpdateContractButton" Content="Update Contract"  
+        Margin="3" FontSize="30" Grid.Row="2" Click="UpdateContractButton_Click" FontFamily="Freestyle Script" />
+
+        <Button x:Name="DeleteContractButton" Content="Delete Contract"  
+        Margin="3" FontSize="30" Grid.Row="3" Click="DeleteContractButton_Click" FontFamily="Freestyle Script" />
+        <Button x:Name="ShowAllContracts" Content="Show All Contracts"  Margin="3" FontSize="30" Grid.Row="4" Click="ShowAllContractsButton_Click" FontFamily="Freestyle Script"/>
+
+
+    </Grid>
+</Window>

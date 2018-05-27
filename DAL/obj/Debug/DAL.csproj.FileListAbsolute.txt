@@ -1,0 +1,30 @@
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\bin\Debug\DAL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\bin\Debug\DAL.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\bin\Debug\BE.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\bin\Debug\DS.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\bin\Debug\BE.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\bin\Debug\DS.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\obj\Debug\DAL.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\DAL\obj\Debug\DAL.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DAL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DAL.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\BE.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DS.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\BE.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DS.pdb
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.dll
+C:\Users\WIN8-PC\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DAL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DAL.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\BE.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DS.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\bin\Debug\DS.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\DAL\obj\Debug\DAL.pdb

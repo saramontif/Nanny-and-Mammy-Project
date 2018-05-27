@@ -1,0 +1,35 @@
+﻿<Window x:Class="PLWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="415" Width="540" Margin="3">
+    <Grid  HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="525" MinHeight="380" >
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Button x:Name="AboutNanny" Content="Nanny"  Margin="3" FontSize="30" Click="AboutNannyButton_Click" FontFamily="Freestyle Script" Grid.Row="1"/>
+
+        <Button x:Name="AboutMother" Content="Mother" Margin="3" FontSize="30" Click="AboutMotherButton_Click" FontFamily="Freestyle Script" Grid.Row="2"/>
+        <Button x:Name="AboutChild" Content="Child" Margin="3" FontSize="30" Grid.Row="3" Click="AboutChildButton_Click" FontFamily="Freestyle Script" />
+        <Button x:Name="AboutContract" Content="Contract" Margin="3" FontSize="30" Grid.Row="4" Click="AboutContractButton_Click" FontFamily="Freestyle Script" />
+        <Button x:Name="Grouping" Content="Grouping" Margin="3" FontSize="30" Grid.Row="5" Click="GroupingButton_Click" FontFamily="Freestyle Script" />
+        <Label Content="Welcome to Nanny for you"  FontSize="45" HorizontalAlignment="Left"  VerticalAlignment="Center" Margin="3"  FontFamily="Freestyle Script"/>
+        <Image HorizontalAlignment="Right" Height="90" Margin="3" VerticalAlignment="Top"  Source="images/$_35.JPG" Stretch="Fill" Width="174"  />
+
+
+
+
+    </Grid>
+</Window>

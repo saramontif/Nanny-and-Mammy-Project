@@ -1,0 +1,22 @@
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\mainCheck.exe.config
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\mainCheck.exe
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\mainCheck.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\BE.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\BE.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\obj\Debug\mainCheck.csprojResolveAssemblyReference.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\obj\Debug\mainCheck.csproj.CoreCompileInputs.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\obj\Debug\mainCheck.exe
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\obj\Debug\mainCheck.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\GoogleMapsApi.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\mainCheck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\mainCheck.exe.config
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\mainCheck.exe
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\mainCheck.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\BE.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\GoogleMapsApi.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\bin\Debug\BE.pdb
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\obj\Debug\mainCheck.csprojResolveAssemblyReference.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\obj\Debug\mainCheck.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\obj\Debug\mainCheck.exe
+C:\Users\owner\Documents\GitHub\C-MammyAndNanny2017A\mainCheck\obj\Debug\mainCheck.pdb

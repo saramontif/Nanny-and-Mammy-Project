@@ -1,0 +1,30 @@
+﻿<Window x:Class="PLWPF.ChildWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="ChildWindow" Height="300" Width="300">
+    <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+        <Label Content=" child "  FontSize="50" HorizontalAlignment="Left" Margin="0,16,0,0" VerticalAlignment="Top"  FontFamily="Freestyle Script"/>
+        <Image HorizontalAlignment="Right" Height="90" Margin="3" VerticalAlignment="Top"  Source="images/untitled.png"   />
+
+        <Button x:Name="AddChildButton" Content="Add Child" Margin="3" FontSize="30" Grid.Row="1" Click="AddChildButton_Click" FontFamily="Freestyle Script"/>
+
+        <Button x:Name="UpdateChildButton" Content="Update Child" Margin="3" FontSize="30" Grid.Row="2" Click="UpdateChildButton_Click" FontFamily="Freestyle Script"/>
+
+        <Button x:Name="DeleteChildButton" Content="Delete Child"  Margin="3" FontSize="30" Grid.Row="3" Click="DeleteChildButton_Click" FontFamily="Freestyle Script"/>
+        <Button x:Name="ShowAllChilds" Content="Show All Childs"  Margin="3" FontSize="30" Grid.Row="4" Click="ShowAllChildsButton_Click" FontFamily="Freestyle Script"/>
+
+    </Grid>
+</Window>

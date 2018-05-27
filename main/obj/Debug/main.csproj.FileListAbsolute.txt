@@ -1,0 +1,5 @@
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\main\bin\Debug\main.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\main\bin\Debug\main.pdb
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\main\obj\Debug\main.dll
+C:\Users\owner\Downloads\סדנא C\מתוקן\Mammy_and_Nanny\main\obj\Debug\main.pdb

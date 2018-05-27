@@ -1,0 +1,34 @@
+﻿<Window x:Class="PLWPF.Grouping"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+      Title="Grouping" Height="550" Width="660">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="339*"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.ColumnSpan="3" TextElement.FontSize="16">
+            <StackPanel Orientation="Horizontal" Margin="10"/>
+        </WrapPanel>
+        <Button x:Name="GroupContByDistanceButton"  FontSize="25"   Content="Contracts By Distance" HorizontalAlignment="Right" VerticalAlignment="Top" Width="160" Height="50" Click="GroupContByDistanceButton_Click" Margin="0,76,0,0" RenderTransformOrigin="0.571,0.46" Grid.RowSpan="2" FontFamily="Freestyle Script"/>
+        <Button x:Name="GroupNannyByAddressButton" FontSize="25"   Content="Nanny By Address" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="151" Height="50" Grid.Column="1" Grid.Row="1" Margin="10,0,0,3" Click="GroupNannyByAddressButton_Click" FontFamily="Freestyle Script"/>
+        <Button x:Name="GroupRangeChildAgeButton" FontSize="25"   Content="Range Child Age" HorizontalAlignment="Center" VerticalAlignment="Top"  Width="151" Height="52" Grid.Column="2" Click="GroupRangeChildAgeButton_Click" Margin="9,0,0,0" Grid.Row="1" FontFamily="Freestyle Script"/>
+        <Button x:Name="GroupNannyWithTMTButton" FontSize="25"  Content="Nanny With TMT"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="10,1,10,0"  Grid.Column="3" Width="141" Height="52" Click="GroupNannyWithTMTButton_Click" Grid.Row="1" FontFamily="Freestyle Script" />
+        <Label x:Name="grouping" Height="75" Content="Grouping" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="60" Margin="78.2,-8,89.4,9.8" Grid.ColumnSpan="2" RenderTransformOrigin="0.927,0.568" Grid.Column="1" FontFamily="Freestyle Script" Width="154"/>
+        <ContentControl x:Name="page" Grid.ColumnSpan="4" Grid.Row="2" BorderBrush="Black" BorderThickness="2" Margin="0,0,10,0"/>
+        <Grid.Background>
+            <ImageBrush />
+        </Grid.Background>
+    </Grid>
+</Window>

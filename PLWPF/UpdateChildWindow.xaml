@@ -1,0 +1,57 @@
+﻿<Window x:Class="PLWPF.UpdateChildWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="UpdateChildWindow" Height="350" Width="525" FontSize="20">
+    <Grid x:Name="grid1" Margin="3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Margin="3"  Grid.Column="0" Content="Child ID:"/>
+        <ComboBox x:Name="childIDComboBox"  SelectionChanged="idCombobox_SelectionChanged" ItemsSource="{Binding ChildID}" Grid.Row="0" Margin="3"  Grid.Column="1"/>
+        <Label Grid.Row="1" Margin="3"  Grid.Column="0" Content="Child Name:"/>
+        <TextBox x:Name="childNameTextBox"  PreviewTextInput="TextValidationTextBox" Text="{Binding ChildName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="1" Margin="3"  Grid.Column="1"/>
+        <Label Grid.Row="2" Margin="3"  Grid.Column="0" Content="Date Of Birth:"/>
+        <DatePicker x:Name="dateOfBirthDatePicker" SelectedDate="{Binding DateOfBirth, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.Row="2" Margin="3"  Grid.Column="1"/>
+        <Label Grid.Row="3" Margin="3"  Grid.Column="0" Content="Is Spacial Needs:"/>
+        <CheckBox x:Name="isSpacialNeedsCheckBox" Grid.Row="3" Margin="3" IsChecked="{Binding IsSpacialNeeds, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}"  Grid.Column="1" Content=""/>
+        <Label Grid.Row="4" Margin="3"  Grid.Column="0" Content="Mother ID:"/>
+        <ComboBox x:Name="motherIDComboBox"  SelectionChanged="mothrerIdCombobox_SelectionChanged" ItemsSource="{Binding MotherID}" Grid.Row="4" Margin="3"  Grid.Column="1"/>
+
+        <Button  Name="UpdateChid" Content="Update" Grid.Column="1"  Margin="3" Grid.Row="5" Click="UpdateChildButton_Click">
+            <Button.Style>
+                <Style x:Name="enableButton">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=childIDTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=childNameTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=dateOfBirthDatePicker, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=isSpacialNeedsCheckBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=motherIDComboBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Window>
